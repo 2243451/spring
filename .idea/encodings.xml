@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/34.Start-Spring-Security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/35.Spring-Security-Authentication" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/36.Spring-Security-ValidateCode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/37.Spring-Security-RememberMe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/38.Spring-Security-SmsCode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-two" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-server" charset="UTF-8" />
+  </component>
+</project>

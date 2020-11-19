@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/34.Start-Spring-Security/pom.xml" />
+        <option value="$PROJECT_DIR$/35.Spring-Security-Authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/36.Spring-Security-ValidateCode/pom.xml" />
+        <option value="$PROJECT_DIR$/37.Spring-Security-RememberMe/pom.xml" />
+        <option value="$PROJECT_DIR$/38.Spring-Security-SmsCode/pom.xml" />
+        <option value="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_171" project-jdk-type="JavaSDK" />
+</project>

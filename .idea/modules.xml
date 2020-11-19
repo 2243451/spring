@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/34.Start-Spring-Security/Security.iml" filepath="$PROJECT_DIR$/34.Start-Spring-Security/Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35.Spring-Security-Authentication/Security (1).iml" filepath="$PROJECT_DIR$/35.Spring-Security-Authentication/Security (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/36.Spring-Security-ValidateCode/Security (2).iml" filepath="$PROJECT_DIR$/36.Spring-Security-ValidateCode/Security (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/37.Spring-Security-RememberMe/Security (3).iml" filepath="$PROJECT_DIR$/37.Spring-Security-RememberMe/Security (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/38.Spring-Security-SmsCode/Security (4).iml" filepath="$PROJECT_DIR$/38.Spring-Security-SmsCode/Security (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringAll-master.iml" filepath="$PROJECT_DIR$/.idea/SpringAll-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-one/sso-application-one.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-one/sso-application-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-two/sso-application-two.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-two/sso-application-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-server/sso-server.iml" />
+    </modules>
+  </component>
+</project>
